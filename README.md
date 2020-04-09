@@ -1,0 +1,1 @@
+# operator_struct_bit_generic
